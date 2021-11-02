@@ -15,3 +15,19 @@ m.cos(2)
 m.log(m.e)
 
 # Question 5
+m.log(m.e)
+
+# Question 6
+m.e.__pow__(4)
+
+# Question 7
+m.ceil(-12.9)
+
+# Question 8
+m.floor(7.25)
+
+# Question 9
+m.log(1000) * 2
+
+# Question 10
+m.radians(180)
